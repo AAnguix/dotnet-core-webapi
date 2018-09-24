@@ -1,0 +1,16 @@
+<Project>
+  <PropertyGroup Label="SDK Versions">
+    <NetStandardTargetVersion>netstandard2.0</NetStandardTargetVersion>
+    <NetCoreTargetVersion>netcoreapp2.0</NetCoreTargetVersion>
+  </PropertyGroup>
+  
+  <PropertyGroup Label="Package Versions">
+    <NewtonsoftJsonPackageVersion>11.0.2</NewtonsoftJsonPackageVersion>
+    <SwashbuckleAspNetCorePackageVersion>3.0.0</SwashbuckleAspNetCorePackageVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Tests Package Versions">
+    <XUnitPackageVersion>2.3.1</XUnitPackageVersion>
+    <ASPNetCoreTestHostPackageVersion>2.1.1</ASPNetCoreTestHostPackageVersion>
+  </PropertyGroup>
+</Project>
